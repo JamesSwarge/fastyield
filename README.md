@@ -1,2 +1,2 @@
 # fastyield
-React Project - Fastyield
+React Project - Fastyield 1.0
